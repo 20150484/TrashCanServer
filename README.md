@@ -12,10 +12,14 @@
 ## 내용
 #### 구현 기능
 서버
+
 <img width="597" height="908" alt="image" src="https://github.com/user-attachments/assets/aa22dde4-44af-49bb-8b17-9854f2fdcba6" />
 <img width="756" height="474" alt="image" src="https://github.com/user-attachments/assets/0b85114f-d470-430f-8a1a-f05405a1ab1b" />
+<img width="1605" height="938" alt="image" src="https://github.com/user-attachments/assets/15711b24-814b-4600-8b95-ff16f271e70c" />
 
 TCP 기반 소켓
-#### 산출물
-- 화면 흐름도
+#### UI
+<img width="933" height="748" alt="image" src="https://github.com/user-attachments/assets/a3b8f202-199d-49e0-b972-58902934544e" />
+<img width="1266" height="537" alt="image" src="https://github.com/user-attachments/assets/7a52ef09-9af4-42e7-8e91-1a38507b6eb6" />
+
 
